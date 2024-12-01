@@ -67,3 +67,7 @@ disk_usage
 top_cpu_processes
 top_memory_processes
 additional_stats
+
+# Pause to hold the output
+echo "Press Enter to exit..."
+read
